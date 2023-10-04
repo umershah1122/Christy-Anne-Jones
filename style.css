@@ -1,0 +1,145 @@
+body {
+  background-color: #fffdfa;
+  padding: 30px 100px;
+}
+nav {
+  display: flex;
+  align-items: center;
+}
+h3 {
+  width: 250px;
+  color: #f6c65e;
+}
+ul {
+  margin-left: 400px;
+  list-style: none;
+  display: flex;
+  width: 50%;
+  justify-content: space-between;
+  font-weight: bold;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+main {
+  margin-top: 50px;
+}
+.top {
+  display: flex;
+}
+.comp1 {
+  width: 50%;
+}
+#img1 {
+  width: 500px;
+  height: 450px;
+}
+.comp2 {
+  width: 50%;
+  margin-top: 100px;
+}
+h1 {
+  color: #f6c65e;
+  font-size: 62px;
+}
+.middle {
+  display: flex;
+  margin-top: 80px;
+}
+.comp3 {
+  margin-left: 100px;
+  width: 50%;
+}
+h2 {
+  color: #307f97;
+  font-size: 45px;
+  margin-bottom: 40px;
+}
+h4 {
+  font-size: 32px;
+  font-weight: normal;
+  margin-bottom: 40px;
+}
+button {
+  background-color: black;
+  color: white;
+  font-style: italic;
+  height: 100px;
+  width: 180px;
+  border-radius: 5px;
+  font-size: 20px;
+}
+.comp4 {
+  margin-left: 20px;
+  width: 50%;
+}
+#img2 {
+  width: 450px;
+  height: 300px;
+}
+.below-middle {
+  display: flex;
+  flex-direction: column;
+  justify-self: center;
+  text-align: center;
+  align-items: center;
+  margin-top: 100px;
+}
+video {
+  width: 980px;
+  margin-top: 70px;
+  margin-bottom: 40px;
+}
+h5 {
+  font-size: 45px;
+  margin-bottom: 50px;
+}
+p {
+  text-align: left;
+}
+.above-fother {
+  display: flex;
+  justify-content: space-between;
+  /* justify-content: center;
+  align-items: center; */
+}
+#img3 {
+  width: 600px;
+  height: 400px;
+}
+#img4 {
+  width: 550px;
+  height: 450px;
+  margin-top: 150px;
+}
+#text {
+  padding: 60px;
+  font-weight: normal;
+  text-align: center;
+  font-size: 40px;
+}
+#text1 {
+  margin-top: -50px;
+  text-align: center;
+}
+.foother {
+  display: grid;
+  margin-top: 70px;
+  text-align: center;
+}
+.imgdiv {
+  display: flex;
+  justify-content: space-between;
+}
+.sequreimg {
+  width: 270px;
+  height: 270px;
+}
+.icon {
+  margin-top: 180px;
+  word-spacing: 15px;
+  margin-bottom: 50px;
+  font-size: 27px;
+  color: black;
+}
